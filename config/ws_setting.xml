@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- update at 2025.04.29 by Avery Tsai -->
+
+<config>
+  <robot_base0>
+    <position x="37.5" y="2403.300049" z="-2" />
+  </robot_base0>
+
+  <safety_working_area>
+    <plane_position x="-1100" y="140" z="-480" />
+    <area length="3000" width="2000" height="6000" />
+  </safety_working_area>
+</config>

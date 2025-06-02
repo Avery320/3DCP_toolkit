@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- update at 2024.04.29 by Avery Tsai -->
+
+<config>
+  <nozzle_setting>
+    <nozzle_position x="-690.795" y="-3.746" z="163.803" />
+    <nozzle_plane A="0" B="180" C="90" />
+  </nozzle_setting>
+</config>
